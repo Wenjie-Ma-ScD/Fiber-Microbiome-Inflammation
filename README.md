@@ -1,4 +1,3 @@
-# Fiber-Microbiome-Inflammation
 
 # Dietary fiber intake, the gut microbiome, and chronic systemic inflammation in a cohort of adult men
 
